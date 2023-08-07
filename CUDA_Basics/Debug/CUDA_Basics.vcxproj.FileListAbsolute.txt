@@ -1,0 +1,2 @@
+C:\Users\Norberto\source\repos\CUDA_Basics\Debug\CUDA_Basics.exe
+C:\Users\Norberto\source\repos\CUDA_Basics\Debug\CUDA_Basics.pdb
